@@ -19,5 +19,6 @@ public class L05_Takinginput {
 //       String str = sc.next();
         String str = sc.nextLine();
         System.out.println(str);
+
     }
 }

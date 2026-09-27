@@ -26,10 +26,10 @@ public class L09_Operators {
         int y=1;
         //int k=x*y/2;
 
-        int b=0;
-        int c=0;
+        int b=8;
+        int c=6;
         int a=10;
-        int k= b*b - (4*a*c)/(2*a);
+        int k= ((b*b) - (4*a*c))/(2*a);
         System.out.println(k);
 
 
